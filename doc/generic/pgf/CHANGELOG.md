@@ -29,6 +29,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Adapt `\graphicspath` setting for flattened doc tree #1191
 - Promote warning "Plot data file \`...' not found" to error
 - Allow empty value for /pgf/arrow keys/fill to make it behave more like /tikz/fill #1352
+- Fixed the `\tikz` command and added support for alt text in the `dvisvg4ht` driver for TeX4ht
 
 ### Contributors
 
@@ -44,6 +45,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Alexander Grahn
 - Max Chernoff
 - Volker Diels-Grabsch
+- Michal Hoftich
 
 ## [3.1.10] - 2023-01-13 Henri Menke
 
